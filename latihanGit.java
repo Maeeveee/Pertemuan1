@@ -4,12 +4,12 @@ package latihanGit;
         
     public static void main(String[] args) {
 
-        Scanner sc2 = new Scanner(System.i)
+        Scanner sc2 = new Scanner(System.in);
         System.out.println("hello world");
         System.out.println("hai");
         
         System.out.println("aku");
-
+        System.out.println("saya adalah rizal");
     }
         
     }
