@@ -8,6 +8,7 @@ package latihanGit;
         System.out.println("hello world");
         System.out.println("hai");
         
+        System.out.println("aku");
 
     }
         
