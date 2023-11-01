@@ -10,6 +10,7 @@ package latihanGit;
         
         System.out.println("aku");
         System.out.println("saya adalah rizal");
+        System.out.println("jika ini muncul berarti sudah di merge");
     }
         
     }
